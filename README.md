@@ -1,5 +1,5 @@
 # amzn-predict-stock
-Recurrent Neural Network with GRU architecture trained to predict the price of Amazon stock
+Recurrent Neural Network with GRU architecture trained to predict Amazon stock prices.
 
 # Amazon stock price chart
 ![AMZN](./images/amzn_stock_price.png)
